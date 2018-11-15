@@ -1,0 +1,2 @@
+C:\dev\GrandCircus\Lab13\obj\Debug\Lab13.csprojAssemblyReference.cache
+C:\dev\GrandCircus\Lab13\obj\Debug\Lab13.csproj.CoreCompileInputs.cache
